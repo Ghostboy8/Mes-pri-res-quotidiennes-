@@ -1,0 +1,557 @@
+{
+  "categories": [
+    {
+      "nameFr": "Prière du matin",
+      "nameEn": "Morning Prayers",
+      "prayers": [
+        {
+          "titleFr": "Commence",
+          "titleEn": "Start",
+          "textFr": "+Au nom du Père et du Fils et du Saint-Esprit. Amen.\nMon Dieu, je t'adore et je t'aime de tout mon cœur.\nJe te rends grâce de m'avoir créé, de m'avoir protégé durant cette nuit, et de m'avoir fait chrétien.\nJe t'offre les actions de ma journée. Fais qu'elles soient toutes conformes à ta sainte volonté et qu'elles te rendent gloire.\nPréserve-moi du péché et de tout mal. Que ta grâce soit toujours avec moi et avec tous ceux et celles que j'aime. Amen.",
+          "textEn": "+In the name of the Father, and of the Son, and of the Holy Spirit. Amen.\nMy God, I adore You and love You with all my heart.\nI give You thanks for having created me, for protecting me during this night, and for making me a Christian.\nI offer You the actions of my day. May they all be in accordance with Your holy will and give You glory.\nPreserve me from sin and all evil. May Your grace always be with me and with all those I love. Amen."
+        },
+        {
+          "titleFr": "Notre Père",
+          "titleEn": "Our Father",
+          "textFr": "Notre Père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain de ce jour, pardonne-nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés, et ne nous laisse pas entrer en tentation, mais délivre-nous du mal. Amen.",
+          "textEn": "Our Father, who art in heaven, hallowed be Thy name; Thy kingdom come; Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen."
+        },
+        {
+          "titleFr": "Je vous salue, Marie",
+          "titleEn": "Hail Mary",
+          "textFr": "Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, mère de Dieu, priez pour nous pauvres pécheurs, maintenant et à l'heure de notre mort. Amen.",
+          "textEn": "Hail Mary, full of grace, the Lord is with you. Blessed are you among women, and blessed is the fruit of your womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen."
+        },
+
+        {
+          "titleFr": "Angelus",
+          "titleEn": "The Angelus",
+          "textFr": "L'ange du Seigneur apporta l'annonce à Marie. Et elle conçut du Saint-Esprit.\nJe te salue, Marie...\nVoici la servante du Seigneur. Qu'il me soit fait selon ta parole.\nJe te salue, Marie...\nEt le Verbe s'est fait chair. Et il a habité parmi nous.\nJe te salue, Marie...\nV. Prie pour nous, Sainte Mère de Dieu.\nR. Afin que nous soyons dignes des promesses du Christ.\nPrions: Que ta grâce, Seigneur, se répande en nos cœurs. Par le message de l'ange, tu nous as fait connaître l'Incarnation de ton Fils Bien-aimé, conduis-nous par sa passion et par sa croix, jusqu'à la gloire de la résurrection, par Jésus le Christ, notre Seigneur. Amen.",
+          "textEn": "The Angel of the Lord declared unto Mary. And she conceived by the Holy Spirit.\nHail Mary...\nBehold the handmaid of the Lord. Be it done unto me according to Thy word.\nHail Mary...\nAnd the Word was made flesh. And dwelt among us.\nHail Mary...\nV. Pray for us, O Holy Mother of God.\nR. That we may be made worthy of the promises of Christ.\nLet us pray: Pour forth, we beseech Thee, O Lord, Thy grace into our hearts; that we, to whom the Incarnation of Christ, Thy Son, was made known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection, through the same Christ Our Lord. Amen."
+        },
+        {
+          "titleFr": "Reine du ciel",
+          "titleEn": "Regina Cæli",
+          "textFr": "Reine du ciel, réjouis-toi, alléluia! Le Christ que tu as mérité de porter, alléluia! Est ressuscité, comme il l'a dit, alléluia! Prie Dieu pour nous, alléluia! Réjouis-toi, Vierge Marie, alléluia! Car le Seigneur est vraiment ressuscité, alléluia!\nPrions: Dieu qui, par la résurrection de ton Fils, notre Seigneur Jésus Christ, as voulu donner la paix au monde, fais, nous t'en supplions, que grâce à la Vierge Marie, sa mère, nous possédions les joies de la vie éternelle, par le Christ notre Seigneur. Amen.",
+          "textEn": "Queen of Heaven, rejoice, alleluia! The Christ whom you were worthy to bear, alleluia! Has risen, as He said, alleluia! Pray for us to God, alleluia! Rejoice, Virgin Mary, alleluia! For the Lord has truly risen, alleluia!\nLet us pray: O God, who by the resurrection of Your Son, our Lord Jesus Christ, have brought joy to the world, grant, we beseech You, that through the intercession of the Virgin Mary, His Mother, we may obtain the joys of eternal life, through the same Christ our Lord. Amen."
+        },
+        {
+          "titleFr": "Gloire au Père",
+          "titleEn": "Glory Be",
+          "textFr": "Gloire au Père, et au Fils, et au Saint-Esprit. Comme il était au commencement, maintenant et toujours, dans les siècles des siècles. Amen.",
+          "textEn": "Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall be, world without end. Amen."
+        },
+        {
+          "titleFr": "Credo",
+          "titleEn": "Credo - Nicene Creed",
+          "textFr": "Je crois en un seul Dieu, le Père tout-puissant, créateur du ciel et de la terre, de l'univers visible et invisible. Je crois en un seul Seigneur, Jésus Christ, le Fils unique de Dieu, né du Père avant tous les siècles : Il est Dieu, né de Dieu, Lumière, née de la Lumière, vrai Dieu, né du vrai Dieu. Engendré, non pas créé, de même nature que le Père : et par Lui tout a été fait. Pour nous les hommes, et pour notre salut, il descendit du ciel ; par l'Esprit Saint il a pris chair de la Vierge Marie, et s'est fait homme. Crucifié pour nous sous Ponce Pilate, il souffrit sa passion et fut mis au tombeau. Il ressuscita le troisième jour, conformément aux Écritures, et il monta au ciel ; il est assis à la droite du Père. Il reviendra dans la gloire, pour juger les vivants et les morts ; et son règne n'aura pas de fin. Je crois en l'Esprit-Saint, qui est Seigneur et qui donne la vie ; il procède du Père et du Fils. Avec le Père et le Fils, il reçoit même adoration et même gloire ; il a parlé par les prophètes. Je crois en l'Église, une, sainte, catholique et apostolique. Je reconnais un seul baptême pour le pardon des péchés. J'attends la résurrection des morts et la vie du monde à venir. Amen.",
+          "textEn": "I believe in one God, the Father almighty, maker of heaven and earth, of all things visible and invisible. I believe in one Lord, Jesus Christ, the Only Begotten Son of God, born of the Father before all ages. God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father; through him all things were made. For us men and for our salvation, he came down from heaven, and by the Holy Spirit was incarnate of the Virgin Mary, and became man. For our sake he was crucified under Pontius Pilate, he suffered death and was buried, and rose again on the third day in accordance with the Scriptures. He ascended into heaven and is seated at the right hand of the Father. He will come again in glory to judge the living and the dead and his kingdom will have no end. I believe in the Holy Spirit, the Lord, the giver of life, who proceeds from the Father and the Son, who with the Father and the Son is adored and glorified, who has spoken through the prophets. I believe in one, holy, catholic, and apostolic Church. I confess one baptism for the forgiveness of sins, and I look forward to the resurrection of the dead and the life of the world to come. Amen."
+        },
+        {
+          "titleFr": "Gloria",
+          "titleEn": "Gloria",
+          "textFr": "Gloire à Dieu, au plus haut des cieux, et paix sur la terre aux hommes qu'il aime. Nous te louons, nous te bénissons, nous t'adorons. Nous te glorifions, nous te rendons grâce, pour ton immense gloire. Seigneur Dieu, Roi du ciel, Dieu le Père tout-puissant. Seigneur, Fils unique, Jésus Christ, Seigneur Dieu, Agneau de Dieu, le Fils du Père ; toi qui enlèves le péché du monde, prends pitié de nous ; toi qui enlèves le péché du monde, reçois notre prière ; toi qui es assis à la droite du Père, prends pitié de nous. Car toi seul es Saint, toi seul es Seigneur, toi seul es le Très-Haut : Jésus Christ, avec le Saint-Esprit, dans la gloire de Dieu le Père. Amen.",
+          "textEn": "Glory to God in the highest, and on earth peace to people of good will. We praise You, we bless You, we adore You, we glorify You, we give You thanks for Your great glory. Lord God, heavenly King, O God, Almighty Father. Lord Jesus Christ, only-begotten Son, Lord God, Lamb of God, Son of the Father; You who take away the sins of the world, have mercy on us; You who take away the sins of the world, receive our prayer; You who are seated at the right hand of the Father, have mercy on us. For You alone are the Holy One, You alone are the Lord, You alone are the Most High, Jesus Christ, with the Holy Spirit, in the glory of God the Father. Amen."
+        }
+      ]
+    },
+    {
+      "nameFr": "Prières au Choix",
+      "nameEn": "Choice Prayers",
+      "prayers": [
+        {
+          "titleFr": "Acte de Foi",
+          "titleEn": "Act of Faith",
+          "textFr": "Mon Dieu, je crois fermement toutes les vérités que tu as révélées et que tu nous enseignes par ton Église, parce que tu ne peux ni te tromper, ni nous tromper.",
+          "textEn": "My God, I firmly believe all the truths you have revealed and that you teach us through your Church, because you cannot err nor deceive us."
+        },
+        {
+          "titleFr": "Acte d'Espérance",
+          "titleEn": "Act of Hope",
+          "textFr": "Mon Dieu appuyé sur tes promesses et sur les mérites de Jésus Christ mon sauveur, j'espère avec une ferme confiance que tu me feras la grâce d'observer tes commandements en ce monde et d'obtenir par ce moyen la vie éternelle.",
+          "textEn": "My God, supported by your promises and the merits of Jesus Christ my Savior, I confidently hope that you will grant me the grace to observe your commandments in this world and obtain eternal life through this means."
+        },
+        {
+          "titleFr": "Acte de Charité",
+          "titleEn": "Act of Charity",
+          "textFr": "Mon Dieu, tu es digne de tout amour, à cause de tes perfections infinies; je t'aime de tout mon cœur et j'aime mon prochain comme moi-même pour l'amour de toi.",
+          "textEn": "My God, you are worthy of all love because of your infinite perfections; I love you with all my heart and I love my neighbor as myself for the love of you."
+        },
+        {
+          "titleFr": "Acte d'Humilité",
+          "titleEn": "Act of Humility",
+          "textFr": "Mon Dieu, tu sais que notre confiance ne repose pas sur les actions humaines: par ta miséricorde, que l'apôtre saint Paul, nous protège contre toute adversité. Par le Christ notre Seigneur. Amen.",
+          "textEn": "My God, you know that our trust does not rely on human actions: through your mercy, may the apostle Saint Paul protect us from all adversity. Through Christ our Lord. Amen."
+        },
+        {
+          "titleFr": "Acte de Remerciement",
+          "titleEn": "Act of Thanksgiving",
+          "textFr": "Nous te rendons grâce pour tes bienfaits, Dieu tout-puissant, toi qui vis et règnes pour les siècles des siècles. Amen.",
+          "textEn": "We give you thanks for your blessings, Almighty God, you who live and reign forever and ever. Amen."
+        },
+        {
+          "titleFr": "Acte d'Abandon",
+          "titleEn": "Act of Abandonment",
+          "textFr": "Que m'arrivera-t-il aujourd'hui, ô mon Dieu? Je n'en sais rien. Tout ce que je sais, c'est qu'il ne m'arrivera rien que tu n'aies prévu ou ordonné de toute éternité. Cela me suffit. J'adore tes desseins éternels et impénétrables, et je m'y soumets de tout mon cœur pour l'amour de toi; je te fais l'offrande de mon être et je l'unis à celle de Jésus Christ, mon divin Sauveur. Je te demande, en son nom et par ses mérites, la patience dans mes peines, et la soumission parfaite à tout ce que tu veux ou permets pour ta plus grande gloire et ma sanctification. Amen.",
+          "textEn": "What will happen to me today, O my God? I do not know. All I know is that nothing will happen to me that you have not foreseen or ordained for all eternity. That is enough for me. I adore your eternal and unfathomable designs, and I submit to them with all my heart for the love of you; I offer you my being and unite it with that of Jesus Christ, my Divine Savior. I ask you, in his name and through his merits, for patience in my suffering, and perfect submission to everything you will or permit for your greater glory and my sanctification. Amen."
+        },
+        {
+          "titleFr": "Acte d'Offrande",
+          "titleEn": "Act of Offering",
+          "textFr": "Accepte, Seigneur, mon entière liberté. Prends toute ma mémoire, mon intelligence et ma volonté. Tout ce que j'ai ou possède, c'est toi qui me l'as donné : je te le rends et te le livre sans réserve, pour que ta volonté le dirige. Donne-moi seulement ton amour et ta grâce et je serai riche. Je ne demande rien au-delà. (Saint Ignace)",
+          "textEn": "Accept, Lord, my entire freedom. Take all my memory, my understanding, and my will. Everything I have or possess, it is you who have given it to me: I return it to you and deliver it to you without reservation, so that your will may direct it. Give me only your love and your grace, and I will be rich. I ask for nothing more. (Saint Ignatius)"
+        },
+        {
+          "titleFr": "Pour Vaincre le Défaut Dominant",
+          "titleEn": "To Overcome the Dominant Defect",
+          "textFr": "Jésus Maître, tu as dit : « En vérité, je vous le dis: tout ce que vous demanderez au Père en mon nom, il vous le donnera. » En ton nom, je demande la grâce de vaincre mon défaut dominant. Exauce-moi!",
+          "textEn": "Jesus Master, you have said: \"Truly, I say to you: whatever you ask the Father in my name, he will give it to you.\" In your name, I ask for the grace to overcome my dominant flaw. Grant me this!"
+        },
+        {
+          "titleFr": "Prière Après une Petite Querelle Familiale",
+          "titleEn": "Prayer After a Small Family Quarrel",
+          "textFr": "Merci de nous avoir guidés les uns vers les autres et de nous avoir donné la force de nous retrouver dans l'affection. Apprends-nous, à la lumière de ces accidents, à mieux nous écouter, à accepter nos différences de caractère et nos points de vue divergents. Fais-nous connaître jusqu'au bout la joie de nous pardonner et d'être unis.",
+          "textEn": "Thank you for guiding us toward each other and giving us the strength to find one another in affection. Teach us, in the light of these accidents, to listen to each other better, to accept our differences in character and differing viewpoints. Help us to know to the fullest the joy of forgiving one another and being united."
+        },
+        {
+          "titleFr": "Pour Bien Passer la Journée",
+          "titleEn": "For a Good Day",
+          "textFr": "Marie, ma Mère, protège-moi. Préserve mon intelligence, mon cœur et mes sens de tout péché. Sanctifie mes pensées, mes paroles et mes actions pour que je plaise à toi et à Jésus et que je parvienne au ciel avec toi. Jésus et Marie, bénissez-moi! Au nom du Père, et du Fils et du Saint-Esprit. Amen.",
+          "textEn": "Mary, my Mother, protect me. Preserve my mind, my heart, and my senses from all sin. Sanctify my thoughts, my words, and my actions so that I may please you and Jesus, and that I may reach heaven with you. Jesus and Mary, bless me! In the name of the Father, and of the Son, and of the Holy Spirit. Amen."
+        }
+      ]
+    },
+    {
+      "nameFr": "Prière du soir",
+      "nameEn": "Evening Prayer",
+      "prayers": [
+        {
+          "titleFr": "Prière du soir",
+          "titleEn": "Evening Prayer",
+          "textFr": "Mon Dieu, je t'adore et je t'aime de tout mon cœur. Je te rends grâce de m'avoir créé, de m'avoir fait chrétien, et de m'avoir gardé durant ce jour. Pardonne le mal que j'ai commis aujourd'hui et accepte le bien que j'ai pu accomplir. Protège-moi dans mon repos et délivre-moi des dangers. Que ta grâce soit toujours avec moi et avec tous ceux et celles que j'aime. Amen.",
+          "textEn": "My God, I adore you and love you with all my heart. I thank you for creating me, for making me a Christian, and for keeping me safe throughout this day. Forgive the wrongs I have committed today and accept the good I have done. Protect me in my rest and deliver me from danger. May your grace always be with me and with all those I love. Amen."
+        },
+
+        {
+          "titleFr": "Acte de contrition",
+          "titleEn": "Act of Contrition",
+          "textFr": "Mon Dieu, j'ai un extrême regret de t'avoir offensé, parce que tu es infiniment bon, infiniment aimable, et que le péché te déplaît. Pardonne-moi par les mérites de Jésus Christ mon Sauveur; je me propose, avec ta grâce, de ne plus t'offenser et de faire pénitence.",
+          "textEn": "My God, I have extreme regret for offending you, because you are infinitely good, infinitely lovable, and sin displeases you. Forgive me through the merits of Jesus Christ, my Savior; I propose, with your grace, to never offend you again and to do penance."
+        },
+        {
+          "titleFr": "Pour le Pape",
+          "titleEn": "For the Pope",
+          "textFr": "Seigneur, protège notre saint Père, le Pape. Sois sa lumière, sa force, son réconfort. Amen.",
+          "textEn": "Lord, protect our Holy Father, the Pope. Be his light, his strength, his comfort. Amen."
+        },
+        {
+          "titleFr": "Pour les défunts",
+          "titleEn": "For the Deceased",
+          "textFr": "Seigneur, donne-leur le repos éternel. Fais briller sur eux la lumière sans fin. Qu'ils reposent dans la paix. Amen.",
+          "textEn": "Lord, grant them eternal rest. Let perpetual light shine upon them. May they rest in peace. Amen."
+        },
+        {
+          "titleFr": "Pour les mourants",
+          "titleEn": "For the Dying",
+          "textFr": "Tu ne parles plus, mais tu es vivant. Tu ne bouges, plus mais tu es vivant. Tu ne souris plus, mais en arrière de tes yeux tu me regardes. De très loin? Peut-être de très près, je ne sais rien de ces distances. Je ne sais plus rien de toi, mais tu sais maintenant davantage de choses sur moi.",
+          "textEn": "You no longer speak, but you are alive. You no longer move, but you are alive. You no longer smile, but behind your eyes, you are looking at me. From far away? Perhaps from very close, I don't know these distances. I no longer know anything about you, but now you know more about me."
+        },
+        {
+          "titleFr": "Tu es en Dieu",
+          "titleEn": "You are in God",
+          "textFr": "Jésus, donne-moi de croire à ta victoire sur la mort. Je le crois. Toute ma foi, je la rassemble. Elle est maintenant mon seul lien avec toi. Celui que j'aime veut entrer dans ta joie. S'il n'est pas prêt, je te prie pour lui. Achève sa préparation. Pardonne-lui comme tu sais pardonner. Aide-moi à vivre sans sa voix, sans ses yeux. Que je ne le déçoive pas maintenant qu'il va me voir vivre et m'attendre. (André Sève)",
+          "textEn": "Jesus, give me the faith to believe in your victory over death. I believe it. I gather all my faith. It is now my only link with you. The one I love wants to enter your joy. If he is not ready, I pray for him. Complete his preparation. Forgive him as you know how to forgive. Help me to live without his voice, without his eyes. May I not disappoint him now that he will see me live and wait for me. (André Sève)"
+        },
+        {
+          "titleFr": "Pour les agonisants",
+          "titleEn": "For the Dying",
+          "textFr": "Maintenant tu peux quitter ce monde, âme chrétienne. Quitte-le au nom de Dieu, le Père tout puissant qui t'a créée, au nom de Jésus Christ, fils du Dieu vivant qui a souffert la mort pour toi, au nom du Saint-Esprit qui a fait sa demeure en toi. Qu'aujourd'hui tu vives dans la paix, et que ta demeure soit auprès de Dieu dans l'Église du ciel, avec la Vierge Marie, la Sainte Mère de Dieu, avec Saint Joseph, Saint N...., avec tous les anges et tous les saints de Dieu. Par Jésus, le Christ, notre Seigneur. Amen.",
+          "textEn": "Now you can leave this world, Christian soul. Leave it in the name of God, the Almighty Father who created you, in the name of Jesus Christ, the Son of the living God who suffered death for you, in the name of the Holy Spirit who made his dwelling in you. May you live in peace today, and may your dwelling be with God in the Church of heaven, with the Virgin Mary, the Holy Mother of God, with Saint Joseph, Saint N...., with all the angels and all the saints of God. Through Jesus, Christ, our Lord. Amen."
+        },
+        {
+          "titleFr": "Psaumes 22",
+          "titleEn": "Psalm 22",
+          "textFr": "Le Seigneur est mon berger: je ne manque de rien. Sur des prés d'herbe fraîche, il me fait reposer. Il me mène vers les eaux tranquilles et me fait revivre; il me conduit par le juste chemin pour l'honneur de son nom. Si je traverse les ravins de la mort, je ne crains aucun mal, car tu es avec moi: ton bâton me guide et me rassure. Tu prépares la table pour moi devant mes ennemis; tu répands le parfum sur ma tête, ma coupe est débordante. Grâce et bonheur m'accompagnent tous les jours de ma vie; j'habiterai la maison du Seigneur pour la durée de mes jours.",
+          "textEn": "The Lord is my shepherd; I lack nothing. He makes me lie down in green pastures, he leads me beside still waters, he restores my soul. He guides me along the right paths for his name's sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows. Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever."
+        },
+        {
+          "titleFr": "Psaumes 129 - De profundis",
+          "titleEn": "Psalm 129 - Out of the Depths",
+          "textFr": "Des profondeurs je crie vers toi, Seigneur, Seigneur, écoute mon appel! Que ton oreille se fasse attentive au cri de ma prière. Si tu retiens les fautes, Seigneur, Seigneur, qui subsistera? Mais près de toi se trouve le pardon pour que l'homme le craigne. J'espère le Seigneur de toute mon âme; je l'espère, et j'attends sa parole. Mon âme attend le Seigneur plus qu'un veilleur ne guette l'aurore. Plus qu'un veilleur ne guette l'aurore, attends le Seigneur, Israël. Oui, auprès du Seigneur, est l'amour; près de lui, abonde le rachat. C'est lui qui rachètera Israël de toutes ses fautes.",
+          "textEn": "Out of the depths, I cry to you, Lord, Lord, hear my call! Let your ear be attentive to my prayer. If you keep a record of sins, Lord, Lord, who can stand? But with you there is forgiveness, so that we can, with reverence, serve you. I wait for the Lord more than watchmen wait for the morning. More than watchmen wait for the morning, Israel, wait for the Lord. With the Lord is unfailing love, and with him is full redemption. He himself will redeem Israel from all their sins."
+        }
+      ]
+    },
+    {
+      "nameFr": "Prière durant la journée",
+      "nameEn": "Daytime Prayer",
+      "prayers": [
+        {
+          "titleFr": "Avant le repas",
+          "titleEn": "Before the Meal",
+          "textFr": "Seigneur, bénis-nous, bénis ce repas que nous allons prendre pour mieux te servir.",
+          "textEn": "Lord, bless us, bless this meal we are about to take to serve you better."
+        },
+        {
+          "titleFr": "Après le repas",
+          "titleEn": "After the Meal",
+          "textFr": "Seigneur, merci pour le repas que tu nous as donné. Qu'il nous fortifie à ton service.",
+          "textEn": "Lord, thank you for the meal you have given us. May it strengthen us to serve you."
+        },
+        {
+          "titleFr": "Prière de gratitude pour le repas",
+          "titleEn": "Prayer of Gratitude for the Meal",
+          "textFr": "Dieu notre Père, nous te remercions pour ce repas fraternel, signe de notre communion dans l'accomplissement de la mission à laquelle tu nous as appelés.",
+          "textEn": "God our Father, we thank you for this fraternal meal, a sign of our communion in fulfilling the mission to which you have called us."
+        }
+      ]
+    },
+    {
+      "nameFr": "Prière de dévotion",
+      "nameEn": "Devotional Prayer",
+      "prayers": [
+        {
+          "titleFr": "Invocation à Jésus Maître",
+          "titleEn": "Invocation to Jesus Master",
+          "textFr": "Jésus Maître, sanctifie mon intelligence et augmente ma foi. Jésus Maître dans l'Église, attire-nous tous à ton école. Jésus Maître, délivre-moi de l'erreur, des pensées inutiles et des ténèbres éternelles. Jésus, Voie entre le Père et nous, je t'offre tout et j'attends tout de toi. Jésus, Voie de sainteté, fais que je t'imite fidèlement. Jésus, Voie, rends-moi parfait comme le Père qui est aux cieux. Jésus, Vie, vis en moi pour que je vive en toi. Jésus, Vie, ne permets pas que je me sépare de toi. Jésus, Vie, fais-moi goûter éternellement la joie de ton amour. Jésus, Vérité, que je sois la lumière du monde. Jésus, Voie, que je sois exemple et modèle pour les âmes. Jésus, Vie, que ma présence apporte partout grâce et réconfort.",
+          "textEn": "Jesus Master, sanctify my intelligence and increase my faith. Jesus Master in the Church, draw us all to your school. Jesus Master, deliver me from error, from useless thoughts, and from eternal darkness. Jesus, Way between the Father and us, I offer you everything and expect everything from you. Jesus, Way of holiness, make me faithfully imitate you. Jesus, Way, make me perfect like the Father who is in heaven. Jesus, Life, live in me so that I may live in you. Jesus, Life, do not allow me to separate from you. Jesus, Life, make me eternally taste the joy of your love. Jesus, Truth, may I be the light of the world. Jesus, Way, may I be an example and model for souls. Jesus, Life, may my presence bring grace and comfort everywhere."
+        },
+        {
+          "titleFr": "Âme du Christ - Anima Christi",
+          "titleEn": "Soul of Christ - Anima Christi",
+          "textFr": "Âme du Christ, sanctifie-moi. Corps du Christ, sauve-moi. Sang du Christ, enivre-moi. Eau qui es jaillie du côté du Christ, lave-moi. Passion du Christ, fortifie-moi. O bon Jésus, exauce-moi. Dans tes blessures, cache-moi. Ne permets pas que je sois séparé de toi. Défends-moi de l'esprit malin. A l'heure de ma mort appelle-moi. Et commande que je vienne à toi, pour te rendre gloire avec tes saints, dans les siècles des siècles. Amen.",
+          "textEn": "Soul of Christ, sanctify me. Body of Christ, save me. Blood of Christ, intoxicate me. Water flowing from the side of Christ, wash me. Passion of Christ, strengthen me. O good Jesus, hear me. In your wounds, hide me. Do not permit that I be separated from you. Defend me from the evil spirit. At the hour of my death, call me. And command that I come to you, to give you glory with your saints, forever and ever. Amen."
+        },
+        {
+          "titleFr": "A Saint Joseph",
+          "titleEn": "To Saint Joseph",
+          "textFr": "Je te salue Joseph, toi que la grâce divine a comblé. Le Sauveur a reposé dans tes bras et grandi sous tes yeux. Tu es béni entre tous les hommes, et Jésus, l'Enfant divin de ta virginale épouse, est béni. Saint Joseph, donné pour père au Fils de Dieu, prie pour nous dans nos soucis de famille, de santé et de travail jusqu'à nos derniers jours et daigne nous secourir à l'heure de notre mort. Amen.",
+          "textEn": "I greet you, Joseph, you whom divine grace has filled. The Savior rested in your arms and grew under your eyes. You are blessed among all men, and Jesus, the divine Child of your virginal spouse, is blessed. Saint Joseph, given as father to the Son of God, pray for us in our family, health, and work concerns until our last days and grant us help at the hour of our death. Amen."
+        },
+        {
+          "titleFr": "Ô mon Dieu, Trinité",
+          "titleEn": "O My God, Trinity",
+          "textFr": "Ô mon Dieu, Trinité que j'adore, aide-moi à m'oublier entièrement pour m'établir en toi, immobile et paisible comme si déjà mon âme était dans l'éternité. Que rien ne puisse troubler ma paix, ni me faire sortir de toi, ô mon Immuable, mais que chaque minute m'emporte plus loin dans la profondeur de ton Mystère. Pacifie-mon âme. Fais-en ton ciel, ta demeure aimée et le lieu de ton repos. Que je ne t'y laisse jamais seul, mais que je sois là, tout entière, tout éveillée en ma foi, tout adorante, tout livrée à ton action créatrice. Amen.",
+          "textEn": "O my God, Trinity whom I adore, help me to forget myself completely and establish myself in you, motionless and peaceful as if my soul were already in eternity. Let nothing disturb my peace, nor cause me to leave you, O Immutable One, but let each minute carry me further into the depth of your Mystery. Pacify my soul. Make it your heaven, your beloved dwelling, and the place of your rest. Let me never leave you alone, but be there, all whole, all awake in my faith, all adoring, all given over to your creative action. Amen."
+        },
+        {
+          "titleFr": "Viens Esprit Saint - Veni, Sancte Spiritus",
+          "titleEn": "Come Holy Spirit - Veni, Sancte Spiritus",
+          "textFr": "Viens Esprit Saint, en nos cœurs et envoie du haut du ciel un rayon de ta lumière. Viens en nous, Père des pauvres, viens, dispensateur des dons, viens, lumière de nos cœurs. Consolateur souverain, hôte très doux de nos âmes, adoucissante fraîcheur. Dans le labeur, le repos; dans la fièvre, la fraîcheur; dans les pleurs, le réconfort. O lumière bienheureuse, viens remplir jusqu'à l'intime le cœur de tous tes fidèles. Sans ta puissance divine, il n'est rien en aucun homme, rien qui ne soit perverti. Lave ce qui est souillé, baigne ce qui est aride, guéris ce qui est blessé. Assouplis ce qui est raide, réchauffe ce qui est froid, rends droit ce qui est faussé.",
+          "textEn": "Come Holy Spirit, into our hearts and send from heaven a ray of your light. Come to us, Father of the poor, come, dispenser of gifts, come, light of our hearts. Sovereign Comforter, sweetest guest of our souls, softening refreshment. In labor, rest; in fever, refreshment; in tears, consolation. O blessed light, come fill to the core the hearts of all your faithful. Without your divine power, nothing in any man exists, nothing is free from corruption. Wash what is unclean, bathe what is dry, heal what is wounded. Softens what is stiff, warms what is cold, straightens what is crooked."
+        },
+        {
+          "titleFr": "A tous ceux qui ont la foi",
+          "titleEn": "To all who have faith",
+          "textFr": "A tous ceux qui ont la foi et qui en toi se confient, donne tes sept dons sacrés. Donne mérite et vertu, donne le salut final, donne la joie éternelle. Amen.",
+          "textEn": "To all who have faith and place their trust in you, give your seven sacred gifts. Grant merit and virtue, grant final salvation, grant eternal joy. Amen."
+        },
+        {
+          "titleFr": "A l'Ange gardien",
+          "titleEn": "To the Guardian Angel",
+          "textFr": "Ange gardien, fort et fidèle, sous la conduite de Saint Michel, tu es l'un des anges qui ont vaincu satan et ses adeptes. Le combat continue maintenant sur la terre: le prince du mal et ses partisans se lèvent contre Jésus Christ, ils tendent des embûches. Prie l'Immaculée Reine des Apôtres pour l'Église, peuple de Dieu qui lutte contre satan.",
+          "textEn": "Guardian angel, strong and faithful, under the guidance of Saint Michael, you are one of the angels who defeated Satan and his followers. The battle continues now on earth: the prince of evil and his followers rise up against Jesus Christ, setting traps. Pray to the Immaculate Queen of Apostles for the Church, the people of God who struggle against Satan."
+        },
+        {
+          "titleFr": "A saint Michel Archange",
+          "titleEn": "To Saint Michael the Archangel",
+          "textFr": "Saint Michel Archange et tes compagnons, défendez-nous dans le combat. Soyez notre secours contre la malice et les embûches du démon. Que le Seigneur lui fasse sentir sa puissance. Et toi, prince de la Milice céleste, repousse en enfer satan et tous les esprits mauvais qui rodent dans le monde pour nous perdre.",
+          "textEn": "Saint Michael the Archangel and your companions, defend us in battle. Be our help against the malice and snares of the devil. Let the Lord make him feel His power. And you, prince of the heavenly army, cast Satan and all the evil spirits who prowl around the world to ruin us into hell."
+        }
+      ]
+    },
+    {
+      "nameFr": "Prière à Marie",
+      "nameEn": "Prayer to Mary",
+      "prayers": [
+        {
+          "titleFr": "Salut, ô Reine - Salve Regina",
+          "titleEn": "Hail, O Queen - Salve Regina",
+          "textFr": "Salut, ô Reine, Mère de miséricorde. Notre vie, notre douceur et notre espérance, salut. Enfants d'Eve en exil, nous crions vers toi; nous soupirons vers toi, gémissant et pleurant dans cette vallée de larmes. Toi, le fruit béni de ton sein. Ô toi, notre avocate, tourne vers nous ton regard compatissant. Et montre-nous, après cet exil, Jésus, Ô clémente, ô miséricordieuse, ô douce Vierge Marie.",
+          "textEn": "Hail, O Queen, Mother of mercy. Our life, our sweetness, and our hope, hail. Children of Eve in exile, we cry to you; we sigh to you, lamenting and weeping in this valley of tears. You, the blessed fruit of your womb. O you, our advocate, turn towards us your compassionate gaze. And show us, after this exile, Jesus, O clement, O merciful, O sweet Virgin Mary."
+        },
+        {
+          "titleFr": "Prière du P. de Grandmaison",
+          "titleEn": "Prayer of Father de Grandmaison",
+          "textFr": "Sainte Marie, Mère de Dieu, garde-moi un cœur d'enfant, pur et transparent comme une source. Obtiens-moi un cœur simple, qui ne savoure pas les tristesses; un cœur magnifique à se donner, tendre à la compassion; un cœur fidèle et généreux, qui n'oublie aucun bien et ne tienne rancune d'aucun mal.",
+          "textEn": "Holy Mary, Mother of God, keep me a child’s heart, pure and transparent like a spring. Obtain for me a simple heart, which does not savor sorrows; a magnificent heart, ready to give, tender in compassion; a faithful and generous heart, that forgets no good and holds no grudge against any evil."
+        },
+        {
+          "titleFr": "Fais-moi un cœur doux et humble",
+          "titleEn": "Make me a soft and humble heart",
+          "textFr": "Fais-moi un cœur doux et humble, aimant sans demander de retour, joyeux de s'effacer dans un autre cœur devant ton divin Fils, un cœur grand et indomptable, qu'aucune ingratitude ne ferme, qu'aucune indifférence ne lasse, un cœur tourmenté de la gloire de Jésus Christ, blessé de son amour et dont la plaie ne guérisse qu'au ciel.",
+          "textEn": "Make me a soft and humble heart, loving without asking for anything in return, joyful to fade into another heart before your divine Son, a heart great and indomitable, that no ingratitude can close, that no indifference can tire, a heart tormented by the glory of Jesus Christ, wounded by his love, and whose wound will only heal in heaven."
+        },
+        {
+          "titleFr": "Souviens-toi, ô très pieuse",
+          "titleEn": "Remember, O Most Pious",
+          "textFr": "Souviens-toi, ô très pieuse Vierge Marie, qu'on n'a jamais entendu dire qu'aucun de ceux qui ont eu recours à ta protection, qui ont imploré ton secours et demandé tes suffrages, ait été abandonné. Animé d'une pareille confiance, ô Vierge des vierges, ô ma Mère, je viens à toi, je cours à toi et, gémissant sous le poids de mes péchés, je me prosterne devant toi. Ô mère du Verbe, ne rejette pas mes prières; mais écoute-les favorablement et daigne les exaucer. Amen.",
+          "textEn": "Remember, O most pious Virgin Mary, that it has never been heard that anyone who has sought your protection, implored your help, or asked for your intercession has been abandoned. Filled with such confidence, O Virgin of virgins, O my Mother, I come to you, I run to you, and, groaning under the weight of my sins, I prostrate myself before you. O Mother of the Word, do not reject my prayers, but listen to them favorably and deign to grant them. Amen."
+        },
+        {
+          "titleFr": "Litanies de la Sainte Vierge",
+          "titleEn": "Litany of the Blessed Virgin",
+          "textFr": "Seigneur, prends pitié.\nJésus Christ, prends pitié.\nSeigneur, prends pitié.\nJésus Christ, prends pitié.\nJésus Christ, écoute-nous.\nJésus Christ, exauce-nous.\nPère céleste, qui es Dieu, prends pitié.\nFils Rédempteur du monde, qui es Dieu, prends pitié.\nEsprit Saint, qui es Dieu, prends pitié.\nTrinité sainte, qui es un seul Dieu, prends pitié.\nSainte Marie, prie pour nous.\nSainte Mère de Dieu, prie pour nous.\nSainte Vierge des Vierges, prie pour nous.\nMère du Christ, prie pour nous.\nMère de l'Église, prie pour nous.\nMère de divine grâce, prie pour nous.\nMère très pure, prie pour nous.\nMère très chaste, prie pour nous.\nMère sans tache, prie pour nous.\nMère sans corruption, prie pour nous.\nMère aimable, prie pour nous.\nMère admirable, prie pour nous.\nMère du bon conseil, prie pour nous.\nMère du Créateur, prie pour nous.\nMère du Sauveur, prie pour nous.\nVierge très prudente, prie pour nous, \nVierge vénérable, prie pour nous, \nVierge digne de louange, prie pour nous, \nVierge puissante, prie pour nous, \nVierge clémente, prie pour nous, \nVierge fidèle, prie pour nous, \nMiroir de justice, prie pour nous, \nSiège de la sagesse, prie pour nous, \nCause de notre joie, prie pour nous, \nVase spirituel, prie pour nous, \nVase honorable, prie pour nous, \nVase insigne de dévotion, prie pour nous, \nRose mystique, prie pour nous, \nTour de David, prie pour nous, \nTour d'ivoire, prie pour nous, \nMaison d'or, prie pour nous, \nArche d'alliance, prie pour nous, \nPorte du ciel, prie pour nous, \nÉtoile du matin, prie pour nous, \nSalut des infirmes, prie pour nous, \nRefuge des pécheurs, prie pour nous, \nConsolatrice des affligés, prie pour nous, \nSecours des chrétiens, prie pour nous, \nReine des anges, prie pour nous, \nReine des prophètes, prie pour nous, \nReine des apôtres, prie pour nous, \nReine des martyrs, prie pour nous, \nReine des confesseurs, prie pour nous.\nReine des vierges, Reine de tous les saints, prie pour nous.\nReine conçue sans la tache originelle, prie pour nous.\nReine élevée au ciel, prie pour nous.\nReine du très saint rosaire, prie pour nous.\nReine de la paix, prie pour nous.\nReine de la famille, prie pour nous.\n\n\nAgneau de Dieu qui efface le péché du monde, pardonne-nous, Seigneur.\nAgneau de Dieu qui efface le péché du monde, exauce-nous, Seigneur.\nAgneau de Dieu qui efface le péché du monde, prends pitié de nous.\n\nV. Prie pour nous Sainte Mère de Dieu.\n\nR. Afin que nous devenions dignes des promesses du Christ.\n\n\nPrions: Seigneur, nous t'en prions, accorde-nous en tout temps la santé de l'âme et du corps, et par l'intercession de la bienheureuse Marie, toujours vierge, délivre-nous des tristesses de la vie présente, et donne-nous de goûter un jour les joies éternelles. Par Jésus, le Christ, notre Seigneur. Amen.",
+          "textEn": "Lord, have mercy. Jesus Christ, have mercy. Lord, have mercy. Jesus Christ, have mercy. Jesus Christ, hear us. Jesus Christ, grant us your favor. Heavenly Father, who are God, have mercy. Redeeming Son of the world who are God, have mercy. Holy Spirit, who are God, have mercy. Holy Trinity, who are one God, have mercy. Holy Mary, pray for us. Holy Mother of God, pray for us. Holy Virgin of Virgins, pray for us. Mother of Christ, pray for us. Mother of the Church, pray for us. Mother of divine grace, pray for us. Most Pure Mother, pray for us. Most Chaste Mother, pray for us. Immaculate Mother, pray for us. Mother of Corruption, pray for us. Amiable Mother, pray for us. Admirable Mother, pray for us. Mother of Good Counsel, pray for us. Mother of the Creator, pray for us. Mother of the Savior, pray for us."
+        },
+        {
+          "titleFr": "Cantique de Marie",
+          "titleEn": "The Canticle of Mary",
+          "textFr": "Mon âme exalte le Seigneur, exulte mon esprit en Dieu, mon Sauveur! Il s'est penché sur son humble servante; désormais, tous les âges me diront bienheureuse. Le Puissant fit pour moi des merveilles; Saint est son nom! Son amour s'étend d'âge en âge sur ceux qui le craignent. Déployant la force de son bras, il disperse les superbes. Il renverse les puissants de leurs trônes, il élève les humbles. Il comble de biens les affamés, renvoie les riches les mains vides. Il relève Israël, son serviteur, il se souvient de son amour, De la promesse faite à nos pères, en faveur d'Abraham et de sa race, à jamais.",
+          "textEn": "My soul magnifies the Lord, and my spirit rejoices in God, my Savior! He has looked with favor on his lowly servant; from now on, all generations will call me blessed. The Mighty One has done great things for me; holy is his name! His mercy extends to those who fear him, from generation to generation. He has shown strength with his arm; he has scattered the proud in the thoughts of their hearts. He has brought down the powerful from their thrones, and lifted up the lowly. He has filled the hungry with good things, and sent the rich away empty. He has helped his servant Israel, in remembrance of his mercy, according to the promise he made to our ancestors, to Abraham and to his descendants forever."
+        },
+        {
+          "titleFr": "Marie cause de notre joie",
+          "titleEn": "Mary, Cause of Our Joy",
+          "textFr": "Marie Vierge Immaculée, Femme de la douleur et de l'espérance, sois bienveillante envers chaque personne qui souffre, et obtiens pour chacune la plénitude de la vie. Tourne ton regard maternel en particulier sur ceux qui, en Afrique, sont dans des situations de besoin extrême, car, ils sont frappés par le SIDA ou par d'autres maladies mortelles. Regarde les mères qui pleurent leurs enfants, regarde les grands-parents privés de ressources suffisantes pour aider leurs petits-enfants devenus orphelins. Serre-les tous contre ton cœur de Mère. Reine de l'Afrique et du monde entier, très Sainte Vierge, prie pour nous! \n\n(Jean-Paul II)",
+          "textEn": "Immaculate Virgin Mary, Woman of sorrow and hope, be compassionate toward every person who suffers, and obtain for each the fullness of life. Turn your maternal gaze particularly on those who, in Africa, are in situations of extreme need, for they are afflicted with AIDS or other deadly diseases. Look at the mothers who mourn their children, look at the grandparents deprived of sufficient resources to help their orphaned grandchildren. Hold them all close to your Motherly heart. Queen of Africa and the whole world, Most Holy Virgin, pray for us! (John Paul II)"
+        },
+        {
+          "titleFr": "Sous ta protection - Sub tuum præsidium",
+          "titleEn": "Under Your Protection",
+          "textFr": "Nous nous réfugions sous ta protection, Sainte Mère de Dieu: ne rejette pas nos prières quand nous sommes dans l'épreuve, mais délivre-nous toujours de tous les dangers, Vierge glorieuse et bénie.",
+          "textEn": "We seek refuge under your protection, Holy Mother of God: do not reject our prayers when we are in trial, but deliver us always from all dangers, Glorious and Blessed Virgin."
+        },
+        {
+          "titleFr": "Salut, Etoile de la mer - Ave maris stella",
+          "titleEn": "Hail, Star of the Sea - Ave maris stella",
+          "textFr": "Salut, Etoile de la mer,\nSainte Mère de Dieu,\nMère qui restas vierge,\nheureuse porte du ciel.\n\nToi qui fus saluée par l'ange Gabriel,\nMère des vivants,\nEve nouvelle,\naccorde-nous la paix.\n\nBrise les liens des pécheurs,\ndonne la lumière aux aveugles,\nécarte de nous le mal,\nobtiens-nous de Dieu le bonheur.\n\nVierge douce entre toutes,\nMontre toujours que tu es Mère:\nqu'il reçoive de toi nos prières,\ncelui qui s'est fait ton enfant,\ncelui qui pour nous s'est fait chair.\n\nO Vierge qui n'as pas d'égale,\nobtiens-nous le pardon,\ndonne-nous un cœur humble et pur.\n\nRends sainte notre vie,\nrends sûre notre route,\nafIn que, contemplant Jésus,\nnous partagions sans fin ta joie.\n\nLouange à Dieu le Père,\ngloire au Christ souverain,\nainsi qu'au Saint-Esprit;\naux Trois le même honneur.",
+          "textEn": "Hail, Star of the Sea,\nHoly Mother of God,\nMother who remained a virgin,\nhappy gate of heaven.\n\nYou who were hailed by the angel Gabriel,\nMother of the living,\nnew Eve,\ngrant us peace.\n\nBreak the chains of sinners,\ngive light to the blind,\ndrive away evil from us,\nobtain happiness for us from God.\n\nSweet Virgin above all,\nAlways show that you are Mother:\nmay he receive our prayers from you,\nhe who became your child,\nhe who for us became flesh.\n\nO Virgin who has no equal,\nobtain for us forgiveness,\ngive us a humble and pure heart.\n\nMake our lives holy,\nmake our path secure,\nso that, contemplating Jesus,\nwe may share in your joy without end.\n\nPraise be to God the Father,\nglory to Christ the Sovereign,\nwith the Holy Spirit;\nto the Three be the same honor."
+        }
+        
+        
+        
+        
+        
+        
+      ]
+    },
+    {
+      "nameFr": "Prière de circonstance",
+      "nameEn": "Prayers for Special Occasions",
+      "prayers": [
+        {
+          "titleFr": "Prière avant la communion",
+          "titleEn": "Prayer Before Communion",
+          "textFr": "+Jésus Maître,\ntu m'assures que tu es la Vie.\n<< Celui qui mange ma chair\net boit mon sang aura la vie éternelle. >>\nTu m'as communiqué ta vie au baptême\net dans la réconciliation.\nMaintenant, tu la soutiens en devenant ma nourriture.\nPrends mon cœur, détache-le des vanités du monde.\nJe t'aime de tout mon cœur par-dessus tout parce que tu es Bien infini et Bonheur éternel.",
+          "textEn": "+Jesus Master,\nYou assure me that You are Life.\n<< Whoever eats my flesh\nand drinks my blood will have eternal life. >>\nYou gave me Your life in baptism\nand in reconciliation.\nNow, You sustain it by becoming my food.\nTake my heart, detach it from the vanities of the world.\nI love You with all my heart above all because You are the Infinite Good and Eternal Happiness."
+        },
+        {
+          "titleFr": "Prière après la communion",
+          "titleEn": "Prayer After Communion",
+          "textFr": "+Jésus, ma vie, ma joie, et source de tout bien, je t'aime.\nJe demande surtout à t'aimer de plus en plus ainsi que l'humanité rachetée par ton sang.\nTu es la vigne et je suis le sarment: je veux rester sans cesse uni à toi pour porter beaucoup de fruits.\nTu es la source:\nrépands de plus en plus abondamment la grâce sur mon âme pour la sanctifier.\nTu es la Tête, je suis un de tes membres: communique-moi ton Esprit Saint avec tous ses dons;\nQue ton règne arrive par Marie.\nRéconforte et sauve les personnes que j'aime. Délivre les âmes du purgatoire.\nMultiplie et sanctifie ceux qui sont appelés à l'apostolat.",
+          "textEn": "+Jesus, my life, my joy, and the source of all good, I love You.\nI especially ask to love You more and more, as well as the humanity redeemed by Your blood.\nYou are the vine, and I am the branch: I want to remain constantly united to You to bear much fruit.\nYou are the source:\npour forth Your grace more and more abundantly upon my soul to sanctify it.\nYou are the Head, I am one of Your members: communicate to me Your Holy Spirit with all His gifts;\nMay Your Kingdom come through Mary.\nComfort and save the people I love. Deliver the souls in Purgatory. Multiply and sanctify those who are called to the apostolate."
+        },
+        {
+          "titleFr": "Te Deum",
+          "titleEn": "Te Deum",
+          "textFr": "Nous te louons, ô Dieu.\nNous te célébrons, Seigneur. En toi toute la terre vénère le Père éternel.\nA toi tous les anges, à toi les cieux et toutes les puissances, à toi les chérubins et les séraphins chantent d'une voix ininterrompue: Saint, Saint, Saint est le Seigneur, Dieu des armées. Les cieux et la terre sont remplis de la majesté de Ta gloire.\nA toi les louanges du chœur glorieux des apôtres, à toi celles du groupe illustre des prophètes, à toi celles de la brillante armée des martyrs.\nC'est toi que, par toute la terre, célèbre la sainte Église, Père dont la majesté est sans limite, ainsi que ton Fils Véritable et Unique, que nous devons adorer avec le Saint-Esprit Paraclet.\nC'est toi Christ, roi de gloire, c'est toi qui es le Fils éternel du Père. C'est toi qui, pour sauver l'homme en le prenant avec toi, n'a pas redouté le sein d'une Vierge.\nC'est toi qui as brisé l'aiguillon de la mort et ouvert aux croyants le royaume des cieux. C'est toi qui sièges à la droite de Dieu, dans la gloire du Père.\nTu reviendras pour juger. Telle est notre foi.\nC'est pourquoi, nous t'en supplions, viens au secours de tes serviteurs rachetés par la rançon de ton sang. Fais qu'ils soient mis au nombre de tes Saints\ndans la gloire éternelle. Sauve ton peuple, Seigneur, et bénis ton héritage.\nGouverne-le et soutiens-le à jamais. Chaque jour, nous te bénissons. Et nous louons ton nom à jamais dans les siècles des siècles.\nDaigne, Seigneur, en ce jour nous garder sans péché.\nPrends pitié de nous, Seigneur, prends pitié de nous.\nQue ta miséricorde, Seigneur, soit sur nous, à la mesure de notre espérance en toi. En toi, Seigneur, j'ai mis mon espoir: Je ne serai jamais confondu.\nV. Bénissons le Père et le Fils avec le Saint-Esprit\nR. Louons-le et exaltons-le souverainement dans tous les siècles.\nV. Tu es béni, Seigneur, au firmament du ciel.\nR. Tu es digne de louange et glorieux dans tous les siècles.\nV. Seigneur, exauce ma prière.\nR. Et que mon cri parvienne jusqu'à toi.\nV. Le Seigneur soit avec vous.\nR. Et avec votre esprit.\nPrions: Dieu dont la miséricorde est sans mesure et la bonté inépuisable, nous te rendons grâce pour les dons que tu nous as faits, et nous en appelons, Maître souverain, à ta bienveillance: Toi qui exauces nos prières, ne nous abandonne pas, mais ouvre nos cœurs aux biens du monde à venir. Par le Christ, notre Seigneur. Amen.",
+          "textEn": "We praise You, O God.\nWe acclaim You, Lord. The whole earth venerates You, the eternal Father.\nTo You, all angels, to You, the heavens and all powers, to You, the cherubim and seraphim sing in unending chorus: Holy, Holy, Holy is the Lord, God of hosts. Heaven and earth are full of the majesty of Your glory.\nTo You, the glorious choir of apostles, to You, the noble company of prophets, to You, the shining army of martyrs gives praise.\nIt is You whom the holy Church throughout the world proclaims, O Father of infinite majesty, Your true and only Son, worthy of adoration, and the Holy Spirit, our Advocate.\nYou, Christ, are the King of glory, the eternal Son of the Father. You, who in order to save humanity, did not disdain the Virgin’s womb.\nYou overcame the sting of death and opened the kingdom of heaven to believers. You sit at the right hand of God in the glory of the Father.\nYou will come again to judge. This is our faith.\nTherefore, we beseech You, help Your servants whom You have redeemed with Your precious blood. Grant that they may be numbered among Your saints in eternal glory.\nSave Your people, Lord, and bless Your inheritance.\nGovern them and uphold them forever. Every day, we bless You. And we praise Your name forever, through endless ages.\nBe pleased, Lord, to keep us this day without sin.\nHave mercy on us, Lord, have mercy on us.\nMay Your mercy, Lord, be upon us, as we have placed our trust in You. In You, Lord, I have placed my hope: I shall never be put to shame.\nV. Let us bless the Father and the Son with the Holy Spirit.\nR. Let us praise and exalt Him above all forever.\nV. You are blessed, Lord, in the firmament of heaven.\nR. You are worthy of praise and glorious forever.\nV. Lord, hear my prayer.\nR. And let my cry come to You.\nV. The Lord be with you.\nR. And with your spirit.\nLet us pray: O God, whose mercy is measureless and whose goodness is inexhaustible, we give You thanks for the gifts You have bestowed upon us, and we call upon Your benevolence, O Sovereign Master: You who hear our prayers, do not abandon us, but open our hearts to the treasures of the world to come. Through Christ, our Lord. Amen."
+        },
+        {
+          "titleFr": "Prière pour la paix",
+          "titleEn": "Prayer for Peace",
+          "textFr": "Seigneur, fais de moi un instrument de ta paix.\nLà où est la haine, que je mette l'amour.\nLà où est l'offense, que je mette le pardon.\nLà où est la discorde, que je mette l'union.\nLà où est l'erreur, que je mette la vérité.\nLà où est le doute, que je mette la foi.\nLà où est le désespoir, que je mette l'espérance.\nLà où sont les ténèbres, que je mette la lumière.\nLà où est la tristesse, que je mette la joie.\nFais, Seigneur que je ne cherche pas tant d'être consolé que de consoler, d'être compris que de comprendre, d'être aimé que d'aimer.\nParce que c'est en se donnant que l'on reçoit, en s'oubliant soi-même que l'on se trouve, en pardonnant qu'on obtient le pardon, en mourant que l'on ressuscite à l'éternelle vie.\n(Saint François d'Assise)",
+          "textEn": "Lord, make me an instrument of Your peace.\nWhere there is hatred, let me bring love.\nWhere there is injury, let me bring pardon.\nWhere there is discord, let me bring union.\nWhere there is error, let me bring truth.\nWhere there is doubt, let me bring faith.\nWhere there is despair, let me bring hope.\nWhere there is darkness, let me bring light.\nWhere there is sadness, let me bring joy.\nLord, make me seek not so much to be consoled as to console, to be understood as to understand, to be loved as to love.\nFor it is in giving that we receive, in forgetting ourselves that we find ourselves, in forgiving that we are forgiven, and in dying that we are born to eternal life.\n(Saint Francis of Assisi)"
+        },
+        {
+          "titleFr": "Prière d'une femme qui attend un enfant",
+          "titleEn": "Prayer of a Woman Expecting a Child",
+          "textFr": "Seigneur, je suis heureuse d'être femme et mère. Je te remercie pour la nouvelle vie que je sens chaque jour grandir en moi. Ce don merveilleux me remplit de tendresse et suscite en moi une admiration pour le mystère de ton œuvre créatrice dans toutes les mères.\nVeille je t'en prie, sur mon bébé que tu vois et connais déjà.\nMoi je perçois seulement son mouvement délicat comme une caresse et je rêve des traits de son visage.\nDonne la grâce à son père et à moi sa mère de l'accompagner dès maintenant sur le chemin de la vie et d'être responsables de son avenir. Fais, Seigneur, que la fatigue de la grossesse et la peur de l'accouchement ne troublent pas ma sérénité et celle de ma famille; aide-nous à vivre cette merveilleuse aventure en nous abandonnant à ta Providence.\nQue la Vierge Marie, courageuse et tendre, soit auprès de notre famille et nous rende capables d'accueillir notre enfant, du même amour avec lequel elle a attendu Jésus. Amen.",
+          "textEn": "Lord, I am grateful to be a woman and a mother. I thank You for the new life I feel growing within me each day. This wonderful gift fills me with tenderness and awakens in me admiration for the mystery of Your creative work in all mothers.\nPlease watch over my baby, whom You already see and know.\nI perceive only its delicate movements as a caress, and I dream of its face.\nGrant the grace to its father and me, its mother, to accompany it on the journey of life from now on and to be responsible for its future. Lord, may the fatigue of pregnancy and the fear of childbirth not disturb my serenity and that of my family; help us live this wonderful adventure by surrendering ourselves to Your Providence.\nMay the Virgin Mary, courageous and tender, be with our family and make us capable of welcoming our child with the same love with which she awaited Jesus. Amen."
+        },
+        {
+          "titleFr": "Prière d'un foyer",
+          "titleEn": "Prayer for a Home",
+          "textFr": "Seigneur, nous avons reçu de toi les douceurs et les charges de notre amour.\nDaigne bénir encore aujourd'hui\nce foyer que tu as formé.\nDonne-nous la victoire de l'esprit sur la chair.\nFortifie notre amour réciproque dans la charité, et oriente-le de plus en plus vers ton amour.\nBénis nos enfants, aide-nous dans leur éducation.\nGarde-nous de tout orgueil et de tout égoïsme.\nAide-nous à témoigner du Christ autour de nous.\nReçois notre confiance et notre amour. Amen.",
+          "textEn": "Lord, we have received from You the sweetness and burdens of our love.\nPlease bless today this home that You have formed.\nGrant us victory of the spirit over the flesh.\nStrengthen our mutual love in charity, and direct it increasingly toward Your love.\nBless our children, help us in their education.\nKeep us from all pride and selfishness.\nHelp us bear witness to Christ around us.\nReceive our trust and our love. Amen."
+        },
+        {
+          "titleFr": "Pour les jeunes",
+          "titleEn": "For the Young",
+          "textFr": "Seigneur Jésus, tu as voulu grandir à Nazareth en âge et en sagesse dans une famille humaine.\nAccorde à tous nos enfants de développer en pleine santé leur corps, leur cœur, leur esprit.\nAide-nous à les comprendre, les écouter, les accueillir, les encourager et les soutenir.\nFais que nos différences d'âge et de sensibilité, ne nous éloignent pas, mais nous apportent plus de joie, de largeur de vue et plus d'amour. Amen.",
+          "textEn": "Lord Jesus, You chose to grow in age and wisdom in Nazareth within a human family.\nGrant all our children to develop in full health their bodies, their hearts, and their minds.\nHelp us understand them, listen to them, welcome them, encourage them, and support them.\nMay our differences in age and sensitivity not separate us, but bring us more joy, broader perspective, and more love. Amen."
+        },    
+        {
+          "titleFr": "Prière d'une femme qui attend un enfant",
+          "titleEn": "Prayer of a Woman Expecting a Child",
+          "textFr": "Seigneur, je suis heureuse d'être femme et mère. Je te remercie pour la nouvelle vie que je sens chaque jour grandir en moi. Ce don merveilleux me remplit de tendresse et suscite en moi une admiration pour le mystère de ton œuvre créatrice dans toutes les mères. \nVeille je t'en prie, sur mon bébé que tu vois et connais déjà. Moi je perçois seulement son mouvement délicat comme une caresse et je rêve des traits de son visage. \nDonne la grâce à son père et à moi sa mère de l'accompagner dès maintenant sur le chemin de la vie et d'être responsables de son avenir. Fais, Seigneur, que la fatigue de la grossesse et la peur de l'accouchement ne troublent pas ma sérénité et celle de ma famille; aide-nous à vivre cette merveilleuse aventure en nous abandonnant à ta Providence. \nQue la Vierge Marie, courageuse et tendre, soit auprès de notre famille et nous rende capables d'accueillir notre enfant, du même amour avec lequel elle a attendu Jésus. Amen.",
+          "textEn": "Lord, I am grateful to be a woman and a mother. I thank You for the new life that I feel growing inside me each day. This wonderful gift fills me with tenderness and stirs in me admiration for the mystery of Your creative work in all mothers. \nPlease watch over my baby whom You see and know already. I perceive only its delicate movements like a caress and I dream of the features of its face. \nGrant grace to its father and me, its mother, to accompany it on the path of life, and to be responsible for its future. Lord, may the fatigue of pregnancy and the fear of childbirth not disturb my serenity or that of my family; help us live this beautiful adventure by surrendering ourselves to Your Providence. \nMay the Virgin Mary, courageous and tender, be with our family and help us welcome our child with the same love with which she awaited Jesus. Amen."
+        },
+        {
+          "titleFr": "Prière pour résoudre un problème familial",
+          "titleEn": "Prayer to Solve a Family Problem",
+          "textFr": "Seigneur, nous sommes inquiets en ce moment au sujet de N... \nDonne-nous la force de décider ce qu'il faut, et le courage des efforts nécessaires. \nQuoi qu'il arrive, garde-nous de tout reproche à ton égard, de tout ressentiment à l'égard des autres, même de ceux qui peuvent nous faire du mal. \nApprends-nous surtout que dans les épreuves, tu restes près de nous et que ton amour ne nous abandonne jamais.",
+          "textEn": "Lord, we are worried at this moment about N... \nGive us the strength to decide what needs to be done and the courage for the necessary efforts. \nWhatever happens, keep us from any reproach towards You, from any resentment towards others, even those who may harm us. \nTeach us especially that in trials, You remain close to us and Your love will never abandon us."
+        },
+        {
+          "titleFr": "Prière pour notre pays",
+          "titleEn": "Prayer for Our Country",
+          "textFr": "Dieu qui veilles sur notre monde, regarde le pays où tu nous as donné de vivre; \naccorde à tous ses habitants de rechercher le bien commun. \nA ceux qui nous gouvernent de le faire avec sagesse, afin qu'il y ait parmi nous plus de justice et dans le monde entier, plus de bonheur et de paix. \nPar Jésus, le Christ, notre Seigneur. Amen.",
+          "textEn": "God who watches over our world, look upon the country where You have given us to live; \ngrant to all its inhabitants the desire to seek the common good. \nGrant to those who govern us to do so with wisdom, so that there may be more justice among us and throughout the world, more happiness and peace. \nThrough Jesus Christ, our Lord. Amen."
+        },
+        {
+          "titleFr": "Prière pour les autorités civiles",
+          "titleEn": "Prayer for Civil Authorities",
+          "textFr": "Dieu éternel et tout puissant, tu connais le désir de nos cœurs et tu protèges nos droits. \nDans ta bonté, protège et donne la sagesse à nos autorités civiles afin que par leurs actions, chaque personne jouisse de la liberté, de la santé, de la sécurité et de la paix. Amen.",
+          "textEn": "Eternal and all-powerful God, You know the desires of our hearts and protect our rights. \nIn Your goodness, protect and grant wisdom to our civil authorities so that through their actions, every person may enjoy liberty, health, safety, and peace. Amen."
+        },
+        {
+          "titleFr": "Prière pour la paix et la justice",
+          "titleEn": "Prayer for Peace and Justice",
+          "textFr": "Dieu qui a révélé au monde que les artisans de paix seront appelés tes fils, cette justice qui aide-nous à rechercher toujours seule peut garantir aux hommes une paix solide et véritable. Par Jésus, le Christ, notre Seigneur. Amen.",
+          "textEn": "God who revealed to the world that the peacemakers will be called Your children, this justice that helps us to always seek only can guarantee men a solid and true peace. Through Jesus Christ, our Lord. Amen."
+        },
+        {
+          "titleFr": "Prière pour les religieux",
+          "titleEn": "Prayer for Religious",
+          "textFr": "C'est toi qui mets au cœur des hommes, Seigneur, le désir de te consacrer leur vie, et tu leur donnes les forces nécessaires pour répondre à cette vocation; dirige au long de leur marche vers toi ceux que tu appelles à ne chercher que ton royaume. Qu'en renonçant à eux-mêmes, pour suivre le Christ humble et pauvre, ils se dévouent à ton service et à celui de leurs frères. Amen.",
+          "textEn": "It is You, Lord, who places in the hearts of men the desire to dedicate their lives to You, and You give them the strength needed to respond to this vocation; guide those whom You call to seek only Your kingdom. May they, by renouncing themselves to follow the humble and poor Christ, devote themselves to Your service and to the service of their brothers. Amen."
+        },
+        {
+          "titleFr": "Prière pour les laïcs",
+          "titleEn": "Prayer for the Laity",
+          "textFr": "Tu as voulu, Seigneur, que la puissance de l'Évangile travaille le monde à la manière d'un ferment; veille sur tous ceux qui ont à répondre à leur vocation chrétienne au milieu des occupations de ce monde: qu'ils cherchent toujours l'esprit du Christ, pour qu'en accomplissant leurs tâches d'hommes, ils travaillent à l'avènement de ton règne. Par Jésus, le Christ, notre Seigneur. Amen.",
+          "textEn": "You have wanted, Lord, that the power of the Gospel work in the world like yeast; watch over all those who have to respond to their Christian vocation amid the occupations of this world: may they always seek the spirit of Christ, so that in fulfilling their tasks as men, they work towards the coming of Your kingdom. Through Jesus Christ, our Lord. Amen."
+        },
+        {
+          "titleFr": "Prière pour l'unité des chrétiens",
+          "titleEn": "Prayer for the Unity of Christians",
+          "textFr": "Montre-nous, Seigneur, à quel point tu nous aimes, et par la force de ton Esprit rapproche les chrétiens divisés: que ton Église apparaisse clairement comme ton signe au milieu du monde, et que le monde attiré par sa lumière croie en Jésus ton envoyé. Lui qui règne avec toi pour les siècles des siècles. Amen.",
+          "textEn": "Show us, Lord, how much You love us, and by the power of Your Spirit, bring the divided Christians closer together: may Your Church clearly appear as Your sign in the midst of the world, and may the world, drawn by its light, believe in Jesus, Your sent one. He who reigns with You forever and ever. Amen."
+        },
+        {
+          "titleFr": "Prière pour ceux qui souffrent de la faim",
+          "titleEn": "Prayer for Those Who Suffer from Hunger",
+          "textFr": "Tu veux que nous soyons, Seigneur, les instruments de ton amour pour toute créature. \nInspire-nous une charité plus vive envers nos frères qui souffrent de la faim: montre-nous comment lutter contre ce fléau, aide-nous à le vaincre avec eux, afin qu'ils aient un sort plus humain, et puissent reconnaître que tu les aimes. \nPar Jésus, le Christ, notre Seigneur. Amen.",
+          "textEn": "You want us to be, Lord, instruments of Your love for all creation. \nInspire us to have a stronger charity towards our brothers who suffer from hunger: show us how to fight against this scourge, help us to overcome it with them, so that they may have a more humane fate and recognize that You love them. \nThrough Jesus Christ, our Lord. Amen."
+        },
+        {
+          "titleFr": "Prière pour les travailleurs",
+          "titleEn": "Prayer for Workers",
+          "textFr": "Tu demandes à l'humanité, Dieu créateur, de se perfectionner de jour en jour et d'achever par son travail, l'œuvre immense de ta création; aide-nous à faire que tous les hommes aient des conditions de travail qui respectent leur dignité: qu'en s'efforçant d'améliorer leur propre sort, ils agissent avec esprit de solidarité et de service. \nPar Jésus, le Christ, notre Seigneur. Amen.",
+          "textEn": "You ask humanity, Creator God, to perfect itself day by day and to complete through its work the immense work of Your creation; help us ensure that all people have working conditions that respect their dignity: may they act with a spirit of solidarity and service while striving to improve their own situation. \nThrough Jesus Christ, our Lord. Amen."
+        },
+        {
+          "titleFr": "Prière du travailleur",
+          "titleEn": "Prayer of the Worker",
+          "textFr": "Seigneur Jésus, travailleur comme nous, accorde-nous, de travailler avec toi, de penser comme toi, de prier par toi, de vivre en toi, de donner pour toi nos forces et notre temps. \nQue ton règne vienne à l'usine, à l'atelier, au bureau, dans nos maisons et dans nos rues, sur la terre comme au ciel. \nSois partout mieux connu, mieux aimé, mieux servi. \nDélivre-nous à jamais de l'injustice et de l'envie, de tout mal et de tout péché. Amen.",
+          "textEn": "Lord Jesus, worker like us, grant us to work with You, to think like You, to pray through You, to live in You, to give for You our strength and our time. \nMay Your kingdom come to the factory, to the workshop, to the office, to our homes and to our streets, on earth as it is in heaven. \nBe better known, better loved, better served everywhere. \nDeliver us forever from injustice and envy, from all evil and all sin. Amen."
+        },
+        {
+          "titleFr": "Un Amour m'attend",
+          "titleEn": "A Love Awaits Me",
+          "textFr": "Ce qui se passe de l'autre côté, quand tout pour moi aura basculé dans l'éternité... Je ne le sais pas ! Je crois, je crois seulement, qu'un grand Amour m'attend. Je sais pourtant qu'alors, pauvre et dépouillé, je laisserai Dieu peser le poids de ma vie. Mais ne pensez pas que je désespère... Non, je crois, je crois tellement qu'un grand Amour m'attend. Maintenant que mon heure est proche, que la voix de l'éternité m'invite à franchir le mur, ce que j'ai cru, je le croirai plus fort au pas de la mort. C'est vers un Amour que je marche. En m'en allant, c'est vers son Amour que je tends les bras, c'est dans la vie que je descends doucement. Si je meurs, ne pleurez pas, c'est un Amour qui me prend paisiblement. Si j'ai peur... Et pourquoi pas ? Rappelez-moi souvent, simplement, qu'un Amour m'attend. Mon Rédempteur va m'ouvrir la porte de la joie de sa lumière. Oui, Père ! Voici que je viens vers toi comme un enfant, je viens me jeter dans ton Amour, ton Amour qui m'attend. (Saint Jean de la Croix)",
+          "textEn": "What happens on the other side, when everything for me has shifted into eternity... I do not know! I believe, I only believe, that a great Love awaits me. Yet, I know that then, poor and stripped, I will let God weigh the burden of my life. But do not think that I despair... No, I believe, I truly believe that a great Love awaits me. Now that my hour is near, that the voice of eternity invites me to cross the wall, what I have believed, I will believe even stronger at the doorstep of death. I walk towards a Love. As I go, it is towards His Love that I stretch my arms, it is in life that I gently descend. If I die, do not weep, it is a Love that takes me peacefully. If I am afraid... And why not? Remind me often, simply, that a Love awaits me. My Redeemer will open the door to the joy of His light. Yes, Father! Here I come to you like a child, I come to throw myself into Your Love, Your Love that awaits me. (Saint John of the Cross)"
+        }
+        
+      ]
+    },
+    {
+      "nameFr": "Enseignement de l'Église",
+      "nameEn": "Teachings of the Church",
+      "prayers": [
+        {
+          "titleFr": "Les Béatitudes",
+          "titleEn": "The Beatitudes",
+          "textFr": "Heureux les pauvres de cœur : Le Royaume des cieux est à eux!\nHeureux les doux : Ils obtiendront la terre promise!\nHeureux ceux qui pleurent : Ils seront consolés!\nHeureux ceux qui ont faim et soif de la justice : Ils seront rassasiés!\nHeureux les miséricordieux : Ils obtiendront miséricorde!\nHeureux les cœurs purs : Ils verront Dieu!\nHeureux les artisans de paix : Ils seront appelés fils de Dieu!\nHeureux ceux qui sont persécutés pour la justice : Le Royaume des cieux est à eux!\nHeureux serez-vous si l'on vous insulte, si l'on vous persécute et si l'on dit faussement toute sorte de mal contre vous, à cause de moi.\nRéjouissez-vous, soyez dans l'allégresse, car votre récompense sera grande dans les cieux!",
+          "textEn": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.\nBlessed are the meek: for they shall inherit the earth.\nBlessed are those who mourn: for they shall be comforted.\nBlessed are those who hunger and thirst for righteousness: for they shall be filled.\nBlessed are the merciful: for they shall obtain mercy.\nBlessed are the pure in heart: for they shall see God.\nBlessed are the peacemakers: for they shall be called the children of God.\nBlessed are those who are persecuted for righteousness' sake: for theirs is the kingdom of heaven.\nBlessed are you when people insult you, persecute you, and falsely say all kinds of evil against you because of me.\nRejoice and be glad, because great is your reward in heaven!"
+        },
+        {
+          "titleFr": "Les Dix Commandements",
+          "titleEn": "The Ten Commandments",
+          "textFr": "Je suis le Seigneur, ton Dieu qui t'ai fait sortir du pays d'Égypte, de la maison de servitude.\n\n1. N'aie pas d'autres dieux en dehors de moi !\n2. Ne prononce pas le nom du Seigneur en vain !\n3. Rappelle-toi de sanctifier les fêtes !\n4. Honore ton père et ta mère !\n5. Ne tue pas !\n6. Ne commets pas d'actes impurs !\n7. Ne vole pas !\n8. Ne porte pas de faux témoignages !\n9. Ne désire pas la femme d'autrui !\n10. Ne désire pas ce qui appartient à autrui.",
+          "textEn": "I am the Lord your God, who brought you out of the land of Egypt, out of the house of bondage.\n\n1. You shall have no other gods before me.\n2. You shall not take the name of the Lord your God in vain.\n3. Remember to keep holy the Sabbath day.\n4. Honor your father and your mother.\n5. You shall not kill.\n6. You shall not commit adultery.\n7. You shall not steal.\n8. You shall not bear false witness against your neighbor.\n9. You shall not covet your neighbor’s wife.\n10. You shall not covet your neighbor’s goods."
+        },
+        {
+          "titleFr": "Les Sept Sacrements",
+          "titleEn": "The Seven Sacraments",
+          "textFr": "1. Le Baptême\n2. La Confirmation\n3. L'Eucharistie\n4. La Pénitence\n5. L'Onction des Malades\n6. L'Ordre\n7. Le Mariage",
+          "textEn": "1. Baptism\n2. Confirmation\n3. The Eucharist\n4. Penance\n5. Anointing of the Sick\n6. Holy Orders\n7. Marriage"
+        },
+        {
+          "titleFr": "Les Péchés Capitaux",
+          "titleEn": "The Capital Sins",
+          "textFr": "1. L'Orgueil\n2. L'Avarice\n3. L'Envie\n4. La Colère\n5. L'Impureté\n6. La Gourmandise\n7. La Paresse",
+          "textEn": "1. Pride\n2. Greed\n3. Envy\n4. Wrath\n5. Lust\n6. Gluttony\n7. Sloth"
+        },
+        {
+          "titleFr": "Les Vertus Théologales",
+          "titleEn": "The Theological Virtues",
+          "textFr": "1. La Foi\n2. L'Espérance\n3. La Charité",
+          "textEn": "1. Faith\n2. Hope\n3. Charity"
+        },
+        {
+          "titleFr": "Les Vertus Cardinales",
+          "titleEn": "The Cardinal Virtues",
+          "textFr": "1. La Prudence\n2. La Justice\n3. La Force\n4. La Tempérance",
+          "textEn": "1. Prudence\n2. Justice\n3. Fortitude\n4. Temperance"
+        },
+        {
+          "titleFr": "Les Sept Dons du Saint-Esprit",
+          "titleEn": "The Seven Gifts of the Holy Spirit",
+          "textFr": "1. La Sagesse\n2. L'Intelligence\n3. Le Conseil\n4. La Force\n5. La Science\n6. La Piété\n7. La Crainte de Dieu",
+          "textEn": "1. Wisdom\n2. Understanding\n3. Counsel\n4. Fortitude\n5. Knowledge\n6. Piety\n7. Fear of the Lord"
+        },
+        {
+          "titleFr": "Les Fruits du Saint-Esprit",
+          "titleEn": "The Fruits of the Holy Spirit",
+          "textFr": "1. La Charité\n2. La Joie\n3. La Paix\n4. La Patience\n5. La Longanimité\n6. La Bonté\n7. La Bénignité\n8. La Mansuétude\n9. La Fidélité\n10. La Modestie\n11. La Continence\n12. La Chasteté",
+          "textEn": "1. Charity\n2. Joy\n3. Peace\n4. Patience\n5. Long-suffering\n6. Goodness\n7. Gentleness\n8. Meekness\n9. Faithfulness\n10. Modesty\n11. Self-control\n12. Chastity"
+        },
+        {
+          "titleFr": "Les Sept Œuvres de Miséricorde Corporelle",
+          "titleEn": "The Seven Corporal Works of Mercy",
+          "textFr": "1. Nourrir les affamés\n2. Loger les sans-logis\n3. Vêtir les pauvres\n4. Visiter les malades\n5. Libérer les prisonniers\n6. Ensevelir les morts\n7. Donner à boire aux assoiffés",
+          "textEn": "1. Feed the hungry\n2. Shelter the homeless\n3. Clothe the naked\n4. Visit the sick\n5. Free the prisoners\n6. Bury the dead\n7. Give drink to the thirsty"
+        },
+        {
+          "titleFr": "Les Sept Œuvres de Miséricorde Spirituelle",
+          "titleEn": "The Seven Spiritual Works of Mercy",
+          "textFr": "1. Instruire\n2. Conseiller\n3. Consoler\n4. Conforter\n5. Pardonner\n6. Supporter avec patience\n7. Prier pour les vivants et pour les morts",
+          "textEn": "1. Instruct\n2. Counsel\n3. Console\n4. Comfort\n5. Forgive\n6. Bear with patience\n7. Pray for the living and the dead"
+        },
+        {
+          "titleFr": "Les Conseils Évangéliques",
+          "titleEn": "The Evangelical Counsels",
+          "textFr": "1. La pauvreté\n2. La chasteté\n3. L'obéissance",
+          "textEn": "1. Poverty\n2. Chastity\n3. Obedience"
+        },
+        {
+          "titleFr": "Les Quatre Fins Dernières",
+          "titleEn": "The Four Last Things",
+          "textFr": "1. La mort\n2. Le jugement\n3. L'enfer\n4. Le paradis",
+          "textEn": "1. Death\n2. Judgment\n3. Hell\n4. Heaven"
+        },
+        {
+          "titleFr": "Les Commandements de la Charité",
+          "titleEn": "The Commandments of Charity",
+          "textFr": "- Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme et de tout ton esprit.\n- Tu aimeras ton prochain comme toi-même.",
+          "textEn": "- You shall love the Lord your God with all your heart, with all your soul, and with all your mind.\n- You shall love your neighbor as yourself."
+        },
+        {
+          "titleFr": "L'Eucharistie - Sommet de tous les Sacrements",
+          "titleEn": "The Eucharist - Summit of All Sacraments",
+          "textFr": "L'Eucharistie apparaît donc comme le sommet de tous les Sacrements car elle porte à sa perfection la communion avec Dieu le Père, grâce à l'identification au Fils unique par l'action du Saint-Esprit. Avec une foi pénétrante, l'un des grands auteurs de la tradition byzantine exprimait cette vérité à propos de l'Eucharistie: <<Ainsi ce mystère est parfait, à la différence de tout autre rite, et il conduit à la cime même des biens, puisque là se trouve aussi la fin suprême de tout effort humain. Car c'est Dieu lui-même que nous rencontrons en lui, et Dieu s'unit à nous de l'union la plus parfaite. >>\nLettre encyclique Ecclesia de Eucharistia",
+          "textEn": "The Eucharist thus appears as the summit of all the Sacraments because it brings to perfection communion with God the Father, thanks to the identification with the only Son by the action of the Holy Spirit. With penetrating faith, one of the great authors of the Byzantine tradition expressed this truth about the Eucharist: <<Thus this mystery is perfect, unlike any other rite, and it leads to the very summit of goods, for there is also the supreme end of all human effort. For it is God Himself that we meet in it, and God unites with us in the most perfect union. >>\nEncyclical Letter Ecclesia de Eucharistia"
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      ]
+    }
+    
+   
+    
+  ]
+}
