@@ -1,2 +1,2 @@
 # Mes-pri-res-quotidiennes-
-a roman catholic prayer app
+a roman catholic prayer flutter app
